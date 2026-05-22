@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.104.2 (2026-05-22)
+
+Full Changelog: [v0.104.1...v0.104.2](https://github.com/anthropics/anthropic-sdk-python/compare/v0.104.1...v0.104.2)
+
+### Chores
+
+* **examples:** rename managed-agents private-sandbox-worker to self-hosted-sandbox-worker ([#1822](https://github.com/anthropics/anthropic-sdk-python/issues/1822)) ([750f956](https://github.com/anthropics/anthropic-sdk-python/commit/750f956a535b9e4772951d6bf1abd81203f27d4e))
+
 ## 0.104.1 (2026-05-21)
 
 Full Changelog: [v0.104.0...v0.104.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.104.0...v0.104.1)
